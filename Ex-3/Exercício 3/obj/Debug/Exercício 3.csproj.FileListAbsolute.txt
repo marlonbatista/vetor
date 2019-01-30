@@ -1,0 +1,7 @@
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\obj\Debug\Exercício 3.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\obj\Debug\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\bin\Debug\Exercício 3.exe.config
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\bin\Debug\Exercício 3.exe
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\bin\Debug\Exercício 3.pdb
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\obj\Debug\Exercício 3.exe
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercício 3\Exercício 3\obj\Debug\Exercício 3.pdb

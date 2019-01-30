@@ -1,0 +1,7 @@
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+C:\Users\marlo\Documents\Exericios do C#\Vetor\lista de exercicios\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb
